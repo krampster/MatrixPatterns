@@ -4,6 +4,8 @@ Using Arduino to render patterns on a 16x16 LED Matrix
 I wanted a night light to very slowly rotate through a variety of great patterns. So I have it rotate through 9 different patterns, one per hour. Most of the patterns were borrowed from other places. Many were tweaked by me. 
 ![IMG_7229](https://github.com/krampster/MatrixPatterns/assets/20178922/bb029a59-ad3b-4666-abb7-430f85018361)
 
+Watch the video on YouTube: https://www.youtube.com/watch?v=o12DQ-yugAA
+
 # Patterns:
 HeartDust - pixel heart with interactive confetti. Based on Adafruit PixelDust sample  
 TwinkleFox - FastLED sample. Thanks Mark Kriegsman.  
